@@ -4,8 +4,8 @@ Usermod to use ERCF on a Creality printer, running KLIPPER and Bondtech DDX V3 e
 Its not possible to mount a Sensor between the extruder gears and the hotend. This mod uses a micro switch to detect the movement of
 the extruder latch. Normaly the filament is feed to the hotend without problems after entering the extruder gears.
 
-Mod was designed to be used on the Ender 6, but should work on any Creality printer, compatible with the DDX V3
-This mod is designed to work with the stock cable hose and uses the Z-Endstop (not needed anymore with blTouch). 
+Mod was designed to be used on the Ender 6, but should work on any Creality printer, compatible with the DDX V3.
+This mod is designed to work with the stock cable hose and uses the orginal Z-Endstop (not needed anymore with blTouch). 
 
 
 
